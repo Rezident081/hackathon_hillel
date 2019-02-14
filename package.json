@@ -1,0 +1,10 @@
+{
+  "name": "hackathon_hillel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maxim",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^2.1.5"
+  }
+}
